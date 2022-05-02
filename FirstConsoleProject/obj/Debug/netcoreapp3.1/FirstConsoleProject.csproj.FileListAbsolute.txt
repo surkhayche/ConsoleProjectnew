@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.exe
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.deps.json
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.runtimeconfig.json
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.dll
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.pdb
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.AssemblyInfo.cs
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.dll
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.pdb
+C:\Users\Dell\source\repos\FirstConsoleProject\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.genruntimeconfig.cache
